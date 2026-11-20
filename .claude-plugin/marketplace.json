@@ -1,0 +1,8 @@
+{
+  "name": "str-booster",
+  "description": "Free Claude skills for short-term rental hosts, by David Anthony Scott (STR Booster).",
+  "owner": { "name": "David Anthony Scott", "url": "https://strbooster.com" },
+  "plugins": [
+    { "name": "str-booster", "source": "./plugins/str-booster", "description": "OTA listing copywriter for Airbnb, Vrbo, Booking.com and direct sites" }
+  ]
+}

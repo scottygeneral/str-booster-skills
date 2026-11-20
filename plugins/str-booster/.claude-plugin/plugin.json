@@ -1,0 +1,8 @@
+{
+  "name": "str-booster",
+  "version": "1.0.0",
+  "description": "Free OTA listing copywriter for Airbnb, Vrbo, Booking.com and direct-booking sites, by STR Booster.",
+  "author": { "name": "David Anthony Scott", "url": "https://strbooster.com" },
+  "homepage": "https://github.com/scottygeneral/str-booster-skills",
+  "keywords": ["airbnb", "vrbo", "booking.com", "listing-copy", "short-term-rental"]
+}
