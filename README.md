@@ -2,7 +2,7 @@
 
 Turn Claude into an OTA copywriter that writes listings guests actually click: **titles, summaries, "The space" and neighborhood highlights** for Airbnb, Vrbo, Booking.com and your direct-booking site.
 
-Built by **[David Anthony Scott](https://strbooster.com/?utm_source=github&utm_medium=readme&utm_campaign=ota-copywriter)**: Cornell-certified hospitality strategist, PriceLabs Certified Revenue Manager, and author of *Booked Solid*.
+Built by **[David Anthony Scott](https://davidanthonyscott.com/?utm_source=github&utm_medium=readme&utm_campaign=ota-copywriter)**: Cornell-certified hospitality strategist, PriceLabs Certified Revenue Manager, and author of *Booked Solid*.
 
 ---
 
